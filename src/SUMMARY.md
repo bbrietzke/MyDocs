@@ -13,7 +13,8 @@
 # Embedded Hardware
 
 - [Embedded]()
-    - [Raspberry Pi]()
+    - [Raspberry Pi](embedded/rasppi.md)
+    - [Rust](embedded/rust_embedded.md)
 
 # Linux
 - [Linux]()
