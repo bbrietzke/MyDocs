@@ -26,6 +26,9 @@ echo 1 > /sys/class/gpio/gpio3/value
 echo high > /sys/class/gpio/gpio4/direction
 ```
 
+## Rust
+* [Raspberry Pi Peripheral Access Library](https://github.com/golemparts/rppal)
+
 ## Sources
 * [Jeff Geerling](https://www.jeffgeerling.com/blogs/jeff-geerling/controlling-pwr-act-leds-raspberry-pi)
 * [GPIO with sysfs](http://www.auctoris.co.uk/2012/08/23/gpio-with-sysfs-on-raspberry-pi-part-2/)

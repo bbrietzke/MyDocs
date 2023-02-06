@@ -12,7 +12,7 @@
 
 # Embedded Hardware
 
-- [Embedded]()
+- [Embedded](README.md)
     - [Raspberry Pi](embedded/rasppi.md)
     - [Rust](embedded/rust_embedded.md)
 
