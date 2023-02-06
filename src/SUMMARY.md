@@ -1,6 +1,6 @@
 # Summary
 
-[Introductions](./introductions.md)
+[Introductions](./README.md)
 
 # Kubernetes
 
@@ -12,7 +12,7 @@
 
 # Embedded Hardware
 
-- [Embedded](README.md)
+- [Embedded](embedded/README.md)
     - [Raspberry Pi](embedded/rasppi.md)
     - [Rust](embedded/rust_embedded.md)
 
