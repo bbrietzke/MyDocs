@@ -1,6 +1,6 @@
 # Summary
 
-[Introductions](./README.md)
+[Introductions](README.md)
 
 # Kubernetes
 
