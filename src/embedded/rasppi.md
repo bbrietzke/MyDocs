@@ -9,7 +9,6 @@ Basically, I look for these things all the time, and never can find them.
 [Raspberry Pi 4](https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-mechanical-drawing.pdf)
 
 ## Using LED0 & LED1
-
 ```
 echo heartbeat | sudo tee /sys/class/leds/led1/trigger
 echo cpu | sudo tee /sys/class/leds/led0/trigger

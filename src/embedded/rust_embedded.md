@@ -17,3 +17,7 @@ This is my attempt to organize some of it for what I have found that works and i
 
 ## ESP8266
 * [esp8266-hal](https://github.com/esp-rs/esp8266-hal)
+
+
+## Rust
+* [Rust Magazine](https://rustmagazine.org/issue-1/)
